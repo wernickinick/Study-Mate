@@ -1,0 +1,6 @@
+dotenv
+discord
+discord.ext
+os
+random
+dateclasses
